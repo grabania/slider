@@ -1,1 +1,8 @@
-class slider {}
+class Slider {
+	constructor(images) {
+		this.images = images;
+    }
+    initializeSlider(){
+        
+    }
+}
